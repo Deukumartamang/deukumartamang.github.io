@@ -1,0 +1,156 @@
+Body{
+    Background-color:#BEE9E8;
+
+}
+img{
+    float:center;
+    width:70%;
+    margin-left:15%;
+    Border:2px,black;
+    padding-top: 25px;
+}
+
+.header{
+    width:70%;
+    background-color:#F5EBE0;
+    text-align: center;
+    margin-left:15%;
+    padding-bottom: 20px;
+    border:solid,black;
+
+}
+
+
+.header2{
+    background-color:#F5EBE0;
+    text-align: center;
+    width:30%;
+    margin-left:30%;
+  }
+   
+.mynav a {
+    padding:10px 20px;
+    background-color:#9F86C0;
+    color:white;
+    text-align: center;
+    margin-right: 25px;
+    text-decoration: none;
+    border: solid,white;
+}
+
+.coloum{
+    float: left;
+   
+}
+.small{
+    width:35%;
+    margin-left: 15%;
+    background-color:#EAC4DE;
+    padding-bottom: 200px;
+   
+
+}
+.big{
+    width:45%;
+    background-color:#EAC4DE;
+    margin-left: 2%;
+    
+}
+.blog1{
+    background-color:#AE486D;
+    font-size:18px;
+    padding-bottom: 10px;
+    border:solid,white;
+
+}
+
+.shift{
+    float:left;
+    background-color:#AE486D;
+    margin:0;
+    padding: 0;
+}
+.left{
+    width:40%;
+    margin-left :10%;
+    background-color:#AE486D;
+    padding-bottom: 65px;
+
+}
+.right{
+    width:40%;
+    margin-left:2%;
+    margin-right: 8%;
+}
+p{
+    text-align: center;
+    font-size:18px;
+}
+.blog2{
+width:70%;
+margin-left: 15%;
+padding-top: 20px;
+
+
+}
+
+.contact1{
+    background-color:#AE486D;
+    font-size:18px;
+    padding-bottom: 13px;
+    padding-left: 2px;
+    border:solid,white;
+}
+.mark{
+    margin:0;
+    padding:0;
+    text-decoration: inline;
+    float:left;
+}
+.up{
+    width:40%;
+    background-color:#AE486D;
+    padding:10px;
+    margin-left: 10%;
+   
+}
+.down{
+    width:40%;
+    background-color:#AE486D;
+    padding-bottom:59px;
+    margin-left: 50px;
+
+}
+.me{
+    float: left;
+}
+
+.first{
+    width:40%;
+    margin-left :10%;
+    background-color: #809BCE;
+    padding-bottom: 65px;
+
+}
+.second{
+    width:40%;
+    margin-left:2%;
+    background-color: #809BCE;
+    padding-bottom: 20px;
+    
+}
+
+   
+h2{
+    text-decoration: underline;
+}
+li{
+    font-size: 14;
+}
+h3{
+    text-decoration: underline;
+}
+
+
+    
+
