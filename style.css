@@ -40,20 +40,25 @@ img{
 
 .coloum{
     float: left;
-   
+    width:50%;
+
+    margin-left: 15%;
+ 
 }
 .small{
     width:35%;
-    margin-left: 15%;
-    background-color:#EAC4DE;
-    padding-bottom: 200px;
+ 
+   
+
    
 
 }
 .big{
-    width:45%;
+    width:48%;
     background-color:#EAC4DE;
     margin-left: 2%;
+
+    
     
 }
 .blog1{
@@ -123,13 +128,15 @@ padding-top: 20px;
 }
 .me{
     float: left;
+    
 }
 
 .first{
     width:40%;
     margin-left :10%;
     background-color: #809BCE;
-    padding-bottom: 65px;
+    padding-bottom: 120px;
+    color: white;
 
 }
 .second{
@@ -149,6 +156,23 @@ li{
 }
 h3{
     text-decoration: underline;
+}
+.image{
+    float: left; 
+}
+.Annapurna{
+    width:40%;
+    background-color: #809BCE;
+    margin-left: 10%;
+
+}
+.Raralake{
+    width:40%;
+    background-color: #809BCE;
+    margin-left: 2%;
+}
+li{
+    font-size: 18px;
 }
 
 
