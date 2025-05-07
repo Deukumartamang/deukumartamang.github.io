@@ -114,7 +114,7 @@ padding-top: 20px;
 }
 .up{
     width:40%;
-    background-color:#AE486D;
+    background-color:#2b8659;
     padding:10px;
     margin-left: 10%;
    
@@ -135,7 +135,7 @@ padding-top: 20px;
     width:40%;
     margin-left :10%;
     background-color: #809BCE;
-    padding-bottom: 120px;
+    padding-bottom: 70px;
     color: white;
 
 }
@@ -174,7 +174,49 @@ h3{
 li{
     font-size: 18px;
 }
+.information{
+    border:#9F86C0,solid,2px;
+    width: 50%;
+    text-align: center;
+  margin-left:25%;
+  border-radius: 8px;
+}
+.container{
+    float:left;
+    width:100%;
+    text-align: center;
+    background-color:#AE486D;
+}
 
+.photo1{
+    width:25%;
+    background-color:#2b8659; 
+    display:flex;
+    transition-duration: 0.5sec;
+}
+.photo2{
+    width:25%;
+    background-color:#2b8659;
+}
+.photo3{
+    width:25%;
+    background-color:#2b8659;
+}
+.photo4{
+    width:25%;
+    background-color:#2b8659;
 
+   
     
+}
+.introduction{
+    text-align: center;
+    border:#9F86C0,solid,8px;
+    width:60%;
+    margin-left:20%;
+    margin-right:20%;
+    border-radius: 4px;
+
+}
+
 
